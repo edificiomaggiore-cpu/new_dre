@@ -1,0 +1,33 @@
+package org.example;
+
+public class Curso {
+    private String name;
+    private List<disciplina> disciplinas){
+    privateList<alunos>
+        alunos matriculados;
+}
+    public Curso(String name){
+    this.name
+    this.disciplinas ;
+    this.alunosmatriculados=neistwArrayL<>();
+}
+
+    private void adicionardiciplina(Disciplina disciplina){
+    disciplina.add(disciplina);
+
+    public void exibir detalhes(){
+        System.out.plintln("n\===Curso:"+name+"===");
+            System.out.plintln("Disciplina:");
+            for(Disciplinas d: disciplinas){
+                System.out.plintln("-"+d);
+
+            }
+            System.out.plintln("\nAlunosMatriculados:");
+            for(Alunos a: alunosMatriculados)
+                System.out.plintln("-"+a.GetName()+ Matricula:"+
+            (a.getMatricula()!=null?a.getMatricula():"pendente"));
+
+
+            }
+            publicString getName(){
+            retur name;

@@ -1,0 +1,25 @@
+package org.example;
+
+public class Professor extends Pessoas {
+    private String especializacoes;
+    private list<Disciplina> disciplinas;
+
+    public professor (String name,) {
+        super(name);
+        this.especializacoes = especializacoes;
+
+    }
+
+    public professor String name, Stringespecializacoes){
+    int idade +matricula -
+
+    sobrecarga {
+        super(name);
+}
+    public |String getespecializacoes;
+return especializacoes;
+}
+public void exibirinformacoes(){
+    superexibirinformacoes() {
+        if (especializacaos != null){
+            System.out.println("especializacoes" + especializacoes);

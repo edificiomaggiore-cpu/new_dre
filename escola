@@ -1,0 +1,23 @@
+Public class pessoa{
+p
+public pessoa(String name)
+{
+    This.name=name
+
+   }
+   public pessoa(String name, int idade);
+   This.name;
+   This.idade;
+
+   }
+   System.out.println("name:"+name);
+   if(idade >0){
+
+   System.out.println("idade:"+ idade);
+   }
+   }
+
+   public String getname(){
+        return name;rtected String name;
+protected int idade;
+

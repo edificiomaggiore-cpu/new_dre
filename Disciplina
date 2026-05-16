@@ -1,0 +1,16 @@
+public class Diciplina{
+    private String name;
+    private int cargaHoraria;
+
+    public Diciplina(string name, int cargaHoraria) {
+    this.name= name;
+    this.cargaHoraria= cargaHoraria;
+    }public String getName(){
+        return name;
+
+     public String cargaHoraria(){
+        return cargaHoraria;
+
+       }
+    public String toString(){
+        return name +"-" + cargaHoraria;

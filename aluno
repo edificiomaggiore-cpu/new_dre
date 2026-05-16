@@ -1,0 +1,33 @@
+public class Aluno  extends pessoas {
+    private String matricula;
+    private list<Diciplina> disciplinas;
+
+    public aluno String
+    name,
+    int idade
+
+    {
+        super(name, idade);
+        this.disciplinas = new ArrayList<>();
+
+    }
+
+    public aluno String name,
+    int idade +matricula -
+
+    sobrecarga {
+        super(name, idade);
+        this.matricula = matricula;
+        this.disciplinas = new ArrayList<>();
+    }
+
+    public Arrayadicionardisciplinas(discipinas d);
+        disciplinas.add(d);
+}
+public |String getmatricula;
+return matricula;
+}
+public void exibirinformacoes(){
+    superexibirinformacoes() {
+        if (matricula ! = null){
+            System.out.println("matricula" + matricula
